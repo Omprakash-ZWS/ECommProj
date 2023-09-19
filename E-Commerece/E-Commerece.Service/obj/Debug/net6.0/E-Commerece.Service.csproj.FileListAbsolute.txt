@@ -1,0 +1,5 @@
+C:\Angular In One\My-Pro\angular_auth\E-Commerece\E-Commerece.Service\obj\Debug\net6.0\E-Commerece.Service.csproj.AssemblyReference.cache
+C:\Angular In One\My-Pro\angular_auth\E-Commerece\E-Commerece.Service\obj\Debug\net6.0\E-Commerece.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Angular In One\My-Pro\angular_auth\E-Commerece\E-Commerece.Service\obj\Debug\net6.0\E-Commerece.Service.AssemblyInfoInputs.cache
+C:\Angular In One\My-Pro\angular_auth\E-Commerece\E-Commerece.Service\obj\Debug\net6.0\E-Commerece.Service.AssemblyInfo.cs
+C:\Angular In One\My-Pro\angular_auth\E-Commerece\E-Commerece.Service\obj\Debug\net6.0\E-Commerece.Service.csproj.CoreCompileInputs.cache
